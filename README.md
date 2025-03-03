@@ -33,7 +33,7 @@
 
 ### 🆕 أهم مميزات هذا المشروع إطلع على الملخص!
 <details>
-  <summary><b>⭐ RESUMEN</b></summary>
+  <summary><b>⭐ اضغط هنا</b></summary>
 
  <details>
   <summary><b>🐈 على MoriBot-MD</b></summary>
