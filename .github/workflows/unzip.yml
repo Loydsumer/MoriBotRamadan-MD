@@ -1,7 +1,7 @@
 name: Unzip File
 
 on:
-  workflow_dispatch:  # تشغيل يدوي عبر Actions
+  workflow_dispatch:  # تشغيل يدوي عبر GitHub Actions
 
 jobs:
   unzip:
@@ -11,12 +11,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Unzip the file
-        run: unzip MoriBot-Ramadan.zip -d .  # فك ضغط الملف (غيّر الاسم إن لزم الأمر)
+        run: unzip MoriBot-Ramadan.zip -d .  # فك الضغط في المسار الحالي (استبدل باسم الملف إذا لزم الأمر)
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Unzipped bot files"
-          git push
+          git commit -m "Unzipped bot files" || echo "No changes to commit"
+          git push || echo "No changes to push"
