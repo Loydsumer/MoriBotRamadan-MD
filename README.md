@@ -29,7 +29,7 @@
 </div>
 
 ### 👇 `جميع الحسابات موجودة هنا!!`
-[![الروابط](https://img.shields.io/badge/Mori-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
+[![الروابط](https://img.shields.io/badge/Mori-Channel-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
 
 ### 🆕 أهم مميزات هذا المشروع إطلع على الملخص!
 <details>
