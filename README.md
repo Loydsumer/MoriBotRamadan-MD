@@ -28,7 +28,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@v1_1q)
 </div>
 
-### 👇 `جميع الحسابات موجودة هنا!!`
+### 👇 `جميع التحديثات موجودة هنا!!`
 [![الروابط](https://img.shields.io/badge/Mori-Channel-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
 
 ### 🆕 أهم مميزات هذا المشروع إطلع على الملخص!
