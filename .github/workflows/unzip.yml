@@ -1,1 +1,22 @@
+name: Unzip File
 
+on:
+  workflow_dispatch:  # تشغيل يدوي عبر Actions
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Unzip the file
+        run: unzip MoriBotRamadan-MD.zip -d .  # فك ضغط الملف (غيّر الاسم إن لزم الأمر)
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Unzipped bot files"
+          git push
