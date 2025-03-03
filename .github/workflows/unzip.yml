@@ -1,7 +1,7 @@
 name: Unzip File
 
 on:
-  workflow_dispatch:  # تشغيل يدوي عبر GitHub Actions
+  workflow_dispatch:  # يسمح بتشغيل الـ Workflow يدويًا
 
 jobs:
   unzip:
@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Unzip the file
-        run: unzip MoriBot-Ramadan.zip -d .  # فك الضغط في المسار الحالي (استبدل باسم الملف إذا لزم الأمر)
+        run: unzip bot.zip -d .  # فك الضغط في المسار الحالي
 
       - name: Commit and push changes
         run: |
