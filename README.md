@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="#"><img title="MoriBot-MD" src="https://img.shields.io/badge/READ THE ENTIRE README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="MoriBot-MD" src="https://img.shields.io/badge/متوافق مع إصدار أجهزة متعددة من واتساب-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
+<a href="#"><img title="MoriBot-MD" src="https://img.shields.io/badge/ COMPATIBLE WITH MULTI-DEVICE VERSION OF WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
 <p align="center">   
