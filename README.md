@@ -31,45 +31,18 @@
 ### 👇 `جميع الحسابات موجودة هنا!!`
 [![الروابط](https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
 
-### 🆕 Hemos resumido las principales características de este proyecto. ¡Revisa el resumen!
+### 🆕 لقد قمنا بتلخيص أهم مميزات هذا المشروع. إطلع على الملخص!
 <details>
   <summary><b>⭐ RESUMEN</b></summary>
 
  <details>
-  <summary><b>🐈 SOBRE GATABOT</b></summary>
+  <summary><b>🐈 على MORIBOT</b></summary>
   
-| TEMA | DESCRIPCIÓN | ATAJO |
+| مشكلة | وصف | اختصار |
 |------|-------------|-------|
-| 🔑 **Owners** | *Define quiénes tendrán control total del bot.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L15) |
-| ✏️ **Modificar nombre** | *Modifica el nombre del bot de manera sencilla.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L144) |
-| 🌐 **Idioma** | *Configura el idioma predeterminado para el bot.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L56) |
-| ❇️ **Idiomas disponibles** | *Conoce a los implicados que hacen posible este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/tree/master#-idiomas-disponibles-para-gatabot) |
-| 📲 **Conectar con código (opcional)** | *Vincula directamente tu número para recibir código de 8 dígitos.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L44) |
-| 🆙 **Nivel de usuarios** | *Ajusta la dificultad para que los usuarios suban de nivel en el bot.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L220) |
-| 😎 **Clonar proyecto** | *Crea tu propia versión usando como base este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/fork) |
-| 🐈 **Política** | *Descubre el compromiso y la dedicación detrás de este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md) |
-| 👥 **Distribuidores autorizados** | *Usuarios con licencia oficial para distribuir GataBot.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD#distribuidores-autorizados-o-resellers---preguntas) |
-| ✅ **Colaboradores** | *Conoce a los implicados que hacen posible este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/GataNina-Li/GataBot-MD/graphs/contributors) |
-</details>  
-<details>
-  <summary><b>🫶 PATROCINADORES</b></summary>
-
-| TEMA | DESCRIPCIÓN | ATAJO |
-|------|-------------|-------|
-| ☁️ **SKY ULTRA PLUS** | *Activar en SkyUltraPlus* | [![Here](https://img.shields.io/badge/Aquí-blue)](https://github.com/GataNina-Li/GataBot-MD/tree/master#%EF%B8%8F-sky-ultra-plus) |
-| 📦⛏️ **BOXMINE HOST** | *Activar en BoxMine Host* | [![Here](https://img.shields.io/badge/Aquí-blue)](https://github.com/GataNina-Li/GataBot-MD#%EF%B8%8F-boxmine-host) |
-| 🎇 **HOSTING-PY** | *Activar en Hosting-Py* | [![Here](https://img.shields.io/badge/Aquí-blue)](https://github.com/GataNina-Li/GataBot-MD#-hosting-py) |
-| **TK HOST** | *Activar en TK Host* | [![Here](https://img.shields.io/badge/Aquí-blue)](https://github.com/GataNina-Li/GataBot-MD#tk-host) |
-</details>
-
- <details>
-  <summary><b>🪄 INSTALACIÓN POR TERMUX</b></summary>
-  
-| TEMA | DESCRIPCIÓN | ATAJO |
-|------|-------------|-------|
-| 🪄 **Instalación automática** | *Sigue estos pasos para instalar el bot automáticamente.* | [![Here](https://img.shields.io/badge/Ver_instrucciones-black)](https://github.com/GataNina-Li/GataBot-MD/tree/master?tab=readme-ov-file#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-) |
-| 🪄 **Instalación manual** | *Instala GataBot manualmente siguiendo esta guía.* | [![Here](https://img.shields.io/badge/Ver_instrucciones-black)](https://github.com/GataNina-Li/GataBot-MD/#-opción-2-instalación-manual-por-termux---github) |
-| 🪄 **Instalación por archivos locales** | *Usa archivos locales para instalar GataBot en Termux.* | [![Here](https://img.shields.io/badge/Ver_instrucciones-black)](https://github.com/GataNina-Li/GataBot-MD/#-opción-3-instalación-por-termux---archivos) |
+| 🔑 **المالكين** | *حدد من سيكون له السيطرة الكاملة على الروبوت* | [![اضغط هنا](https://img.shields.io/badge/Aquí-green)](https://github.com/araab-zack/MoriBotRamadan-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L15) |
+| ✏️ **تعديل الاسم** | *تغيير اسم البوت بسهولة* | [![اضغط هنا](https://img.shields.io/badge/Aquí-green)](https://github.com/araab-zack/MoriBotRamadan-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L144) | 
+| 📲 **الاتصال باستخدام الكود (اختياري)** | *قم بربط رقمك مباشرة لتلقي رمز مكون من 8 أرقام.* | [![اضغط هنا](https://img.shields.io/badge/Aquí-green)](https://github.com/araab-zack/MoriBotRamadan-MD/blob/c74265fe42d465b52d64209a50b02a5af437b8b2/config.js#L44) |
 | 🪄 **Ejecución 24/7** | *Comandos para mantener GataBot ejecutándose continuamente.* | [![Here](https://img.shields.io/badge/Ver_comandos-black)](https://github.com/GataNina-Li/GataBot-MD/#-usar-gatabot-247-en-termux) |
 | 🪄 **Actualización** | *Sigue estos comandos para actualizar GataBot a la última versión.* | [![Here](https://img.shields.io/badge/Ver_instrucciones-black)](https://github.com/GataNina-Li/GataBot-MD/#-actualizar-gatabot) |
 </details>  
