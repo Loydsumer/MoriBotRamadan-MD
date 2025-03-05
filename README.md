@@ -29,7 +29,7 @@
 </div>
 
 ### 👇 `جميع التحديثات موجودة هنا!!`
-[![الروابط](https://img.shields.io/badge/Mori-Channel-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
+[![الروابط](https://img.shields.io/badge/Mori-Channel-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://whatsapp.com/channel/0029Vb0WYOu2f3EAb74gf02h)
 
 ### 🆕 أهم مميزات هذا المشروع إطلع على الملخص!
 <details>
