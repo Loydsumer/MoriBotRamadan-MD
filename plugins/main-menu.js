@@ -8,10 +8,10 @@ let handler = async (m, { conn, taguser, participants, args }) => {
   try {
     //let vn = './Menu2.jpg';
  //غير رابط الصورة لو تبي تغير الصورة
-    let Z4ck = 'https://files.catbox.moe/fce2u6.jpg';
+    let Z4ck = 'https://files.catbox.moe/am37k3.jpg';
 
 //وتغيرها هنا كمان
-    let telegraphUrl = 'https://files.catbox.moe/fce2u6.jpg'; 
+    let telegraphUrl = 'https://files.catbox.moe/am37k3.jpg'; 
 
 
     let response = await fetch(telegraphUrl);
